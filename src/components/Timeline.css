@@ -1,0 +1,51 @@
+.TimelineDiv__bg{
+  background-color: #fdeae8;
+}
+
+  .h3-timeline {
+    padding-top: 0.25em;
+    font-size: 1rem;
+    letter-spacing:0.1rem;
+    color:#444;
+    font-weight: 800;
+    font-style:bold;
+    
+  }
+  .h5-timeline{
+    padding-top: 0.25em;
+    font-size: 1rem;
+    letter-spacing:0.1rem;
+    color:#444;
+    font-weight: 400;
+    font-style:bold;
+  
+  }
+  
+  .vertical-timeline-element-content {
+    box-shadow: 5px 10px 18px #facbcb !important;
+    padding: 2em 3em !important;
+    
+  }
+  
+  .date {
+    color:white;
+    font-weight: 200;
+  }
+  
+  #description {
+    margin-top: 1rem;
+    margin-bottom:2rem;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 200;
+    letter-spacing:0.1rem;
+      color:#444;
+  }
+  @media only screen and (max-width: 1700px) {
+    .vertical-timeline-element-date {
+      display: block !important;
+      float: none !important;
+      color: rgb(44, 44, 44);
+      margin-top: 1.5em;
+    }
+  }

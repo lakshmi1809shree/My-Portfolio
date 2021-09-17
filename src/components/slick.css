@@ -1,0 +1,44 @@
+.AboutSlick-slider{
+background-color:#fcfcfc;
+height: 18rem;
+}
+.AboutSlick__header{
+    font-size: 3rem;
+    letter-spacing:0.1rem;
+      color:#444;
+      font-weight: 200;
+    text-align: center;
+    padding: 2rem 2rem;
+    margin-bottom: 1rem;
+  
+}
+.item{
+    font-size: 5rem;
+}
+.slider-item1{
+    color:orange;
+}
+.slider-item2{
+    color:royalblue;
+}
+.slider-item3{
+    color: rgb(163, 42, 163);
+}
+.slider-item4{
+    color:pink;
+}
+.slider-item5{
+    color:rgb(252, 252, 8);
+}
+.slider-item6{
+    color:blue;
+}
+.slider-item7{
+    color:rgb(65, 206, 225);
+}
+.slider-item8{
+    color:grey;
+}
+.slider-item9{
+    color: yellowgreen;
+}

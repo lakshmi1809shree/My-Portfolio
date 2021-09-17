@@ -1,0 +1,20 @@
+.card{
+    position: relative;
+    width: 800px;
+    padding: 200px;
+    max-width: 85vh;
+    height: 80vh;
+    border-radius: 20px;
+    background-size: cover;
+    background-position: center;
+   
+}
+.CardTinder__cardContainer{
+  display: flex;
+  justify-content: center;
+  margin-top:-680px;
+  z-index: 1000;
+}
+.swipe{
+    position: absolute;
+}
